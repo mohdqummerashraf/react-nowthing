@@ -7,13 +7,13 @@ A simple and customizable carousel component for React applications.
 You can install the package using npm:
 
 ```bash
-npm install react-carousel-package
+npm install react-nowthing
 ```
 
 Or with yarn:
 
 ```bash
-yarn add react-carousel-package
+yarn add react-nowthing
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Here is a basic example of how to use the carousel component in your React appli
 
 ```jsx
 import React from 'react';
-import Carousel from 'react-carousel-package';
+import Carousel from 'react-nowthing';
 
 const App = () => {
     const images = [
